@@ -1,0 +1,12 @@
+Name: Ingrid Virgo
+ID number: 4587
+Department: Engineering
+
+Name: Julia Rich
+ID number: 4588
+Department: Research
+
+Name: Greg Young
+ID number: 4589
+Department: Marketing
+
